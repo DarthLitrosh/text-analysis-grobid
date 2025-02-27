@@ -1,1 +1,64 @@
-
+[
+    {
+        "filename": "2502.18269v1.pdf",
+        "abstract": ".\nFollowing electronic processes in molecules and materials at the level of\nthe quantum mechanical electron wavefunction with ˚angstr¨om-level spatial resolution\nand with full access to its femtosecond temporal dynamics is at the heart of ultrafast\ncondensed matter physics.\nA breakthrough invention allowing experimental access\nto electron wavefunctions was the reconstruction of molecular orbitals from angle-\nresolved photoelectron spectroscopy data in 2009, termed photoemission orbital\ntomography (POT). This invention puts ultrafast three-dimensional (3D) POT in\nreach, with many new prospects for the study of ultrafast light-matter interaction,\nfemtochemistry and photo-induced phase transitions. Here, we develop a synergistic\nexperimental-algorithmic approach to realize the first 3D-POT experiment using a\nshort-pulse extreme ultraviolet light source. We combine a new variant of photoelectron\nspectroscopy, namely ultrafast momentum microscopy, with a table-top spectrally-\ntunable high-harmonic generation light source and a tailored algorithm for efficient\n3D reconstruction from sparse, undersampled data. This combination dramatically\nspeeds up the experimental data acquisition, while at the same time reducing the\nsampling requirements to achieve complete 3D information. We demonstrate the power\nof this approach by full 3D imaging of the frontier orbitals of a prototypical organic\nsemiconductor absorbed on pristine Ag(110).\narXiv:2502.18269v1  [cond-mat.mtrl-sci]  25 Feb 2025\n Table-top 3D photoemission orbital tomography with a fs-EUV light source\n2\n1.",
+        "figures_count": 103,
+        "links": [
+            "https://arxiv.org/abs/2501.06752.",
+            "https://www.nature.com/articles/nature03183.",
+            "https://arxiv.org/abs/2502.12285.",
+            "http://ieeexplore.",
+            "http://physikmdb.uni-graz.at:5001/.",
+            "https://www.nature.com/articles/s41467-022-32643-z.",
+            "https://www.nature.com/articles/nphys2029.",
+            "https://doi.org/10.1038/s41586-023-05814-1.",
+            "https://pubs.aip.org/rsi/article/93/8/083905/2843390/",
+            "http://dx.doi.org/10.21203/rs.3.rs-2599640/v1.",
+            "https://pubs.aip.org/rsi/article/78/8/083105/",
+            "https://pubs.aip.org/rsi/",
+            "https://www.nature.com/articles/s41586-022-04977-7.",
+            "https://doi.org/10.25625/1EMFFL.",
+            "https://doi.org/10.1080/",
+            "https://www.nature.com/articles/nature19816.",
+            "https://link.aps.org/doi/10.1103/PhysRevMaterials.6.054004.",
+            "https://www.nature.",
+            "https://link.aps.org/doi/10.1103/PhysRevResearch.5.033075.",
+            "https://science.sciencemag.org/content/326/5953/",
+            "https://doi.org/10.1103/PhysRevB.10.5030.",
+            "https://opg.optica.org/oe/abstract.cfm?uri=",
+            "https://www.science.",
+            "https://www.pnas.org/content/111/2/605.",
+            "https://www.nature.com/articles/s41467-019-11133-9.",
+            "https://arxiv.org/abs/2411.14993.",
+            "https://dx.doi.org/10.1088/1367-2630/ad3e22.",
+            "https://www.nature.com/"
+        ]
+    },
+    {
+        "filename": "2502.17608v1.pdf",
+        "abstract": "FWI seeks to achieve a high-resolution model of the subsurface through the application of multi-\nvariate optimization to the seismic inverse problem. Although now a mature technology, FWI has\nlimitations related to the choice of the appropriate solver for the forward problem in challenging\nenvironments requiring complex assumptions, and very wide angle and multi-azimuth data necessary\nfor full reconstruction are often not available.\nDeep Learning techniques have emerged as excellent optimization frameworks. These exist between\ndata and theory-guided methods. Data-driven methods do not impose a wave propagation model and\nare not exposed to modelling errors. On the contrary, deterministic models are governed by the laws\nof physics.\nApplication of seismic FWI has recently started to be investigated within Deep Learning. This has\nfocussed on the time-domain approach, while the pseudo-spectral domain has not been yet explored.\nHowever, classical FWI experienced major breakthroughs when pseudo-spectral approaches were\nemployed. This work addresses the lacuna that exists in incorporating the pseudo-spectral approach\nwithin Deep Learning. This has been done by re-formulating the pseudo-spectral FWI problem as\na Deep Learning algorithm for a data-driven pseudo-spectral approach. A novel DNN framework\nis proposed. This is formulated theoretically, qualitatively assessed on synthetic data, applied to a\ntwo-dimensional Marmousi dataset and evaluated against deterministic and time-based approaches.\nInversion of data-driven pseudo-spectral DNN was found to outperform classical FWI for deeper and\nover-thrust areas. This is due to the global approximator nature of the technique and hence not bound\nby forward-modelling physical constraints from ray-tracing.\n1",
+        "figures_count": 10,
+        "links": []
+    },
+    {
+        "filename": "2502.18134v1.pdf",
+        "abstract": "Quasi-normal modes empowered coherent control of electromagnetic interactions Jingwei Wang,1 Pengxiang Wang,1 Chaofan Zhang,2, 3, ∗Yuntian Chen,1, 4, † and Wei Liu2, 3, ‡ 1School of Optical and Electronic Information, Huazhong University of Science and Technology, Wuhan, Hubei 430074, P. R. China 2College for Advanced Interdisciplinary Studies, National University of Defense Technology, Changsha 410073, P. R. China. 3Nanhu Laser Laboratory and Hunan Provincial Key Laboratory of Novel Nano-Optoelectronic Information Materials and Devices, National University of Defense Technology, Changsha 410073, P. R. China. 4Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, Hubei 430074, P. R. China Quasi-normal modes (QNMs) and coherent control of light-matter interactions (through synchronized multiple coherent incident waves) are profound and pervasive concepts in and beyond photonics, making accessible photonic manipulations with extreme precision and efficiency. Though each has been playing essential roles in its own, these two sweeping concepts remain largely segregated with little interactions, blocking vast opportunities of cross fertilization to explore. Here we unify both concepts into a novel framework of coherent control for light interacting with open photonic systems. From the QNM perspective, scattered waves are superimposed radiations from all QNMs excited, and thus coherent controls can be mapped into",
+        "figures_count": 123,
+        "links": []
+    },
+    {
+        "filename": "2502.17359v1.pdf",
+        "abstract": "Travel Time Reliability in Stochastic Kinematic Flow Models Alexander Hammerl, Ravi Seshadri, Thomas Kjær Rasmussen, Otto Anker Nielsen1 1Department of Transport, Technical University of Denmark SHORT SUMMARY This paper analyzes the time-dependent relationship between the mean and variance of travel time on a single corridor under rush hour like congestion patterns. To model this phenomenon, we apply the LWR ((Lighthill & Whitham, 1955), (Richards, 1956)) theory on a homogenous freeway with a discontinuous bottleneck at its downstream end, assuming a uni-modal demand profile with a stochastic peak. We establish conditions for typical coun- terclockwise hysteresis loops under these assumptions. It is demonstrated that shapes of the fundamental diagram which always produce a counterclockwise loop can be interpreted as an indication of aggressive driving behavior, while deviations may occur under defensive driving. This classification enables a detailed explanation of the qualitative physical mechanisms be- hind this pattern, as well as an analysis of the causes for quantitatively limited deviations. Some of the mathematical properties of the LWR model identified in our analysis have not yet been addressed in the literature and we critically examine the extent to which these reflect actual traffic flow behavior. Our considerations are supported by numerical experiments.",
+        "figures_count": 16,
+        "links": [
+            "https://trid.trb.org/view/451861",
+            "https://escholarship.org/uc/"
+        ]
+    },
+    {
+        "filename": "2502.17413v2.pdf",
+        "abstract": "1 Spatiotemporal optical vortex (STOV) polariton M. S. Le, S. W. Hancock, N. Tripathi, and H. M. Milchberg Institute for Research in Electronics and Applied Physics and Dept. of Physics, University of Maryland, College Park, Maryland 20742, USA We confirm the existence of the spatiotemporal optical vortex (STOV) polariton and the value of its transverse orbital angular momentum (tOAM), verifying our theory of tOAM in a simple dispersive medium [S. W. Hancock et al., Phys. Rev. Lett. 127, 193901 (2021)]. We also develop a physical picture of the polariton as a tOAM structure driven by torques induced by the ponderomotive force of the light in the presence of material dispersion. This is a new type of spatiotemporal torque unanticipated in our recent work [S. W. Hancock et al., Phys. Rev. X 14, 011031 (2024)]. These results are accomplished by high resolution particle-in-cell (PIC) simulations of STOV pulse reflection from and transmission through a fully ionized hydrogen plasma slab. The linear theory matches the PIC simulations up to near-critical plasma densities and near-relativistic field strengths. For higher intensities, optical tOAM becomes invested in collective modes of the plasma. I. INTRODUCTION In the past few years, a new form of structured light",
+        "figures_count": 6,
+        "links": []
+    }
+]
